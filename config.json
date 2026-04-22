@@ -1,0 +1,38 @@
+{
+  "max_file_size_mb": 100,
+  "entropy_threshold": 7.4,
+  "quarantine_dir": "quarantine",
+  "report_dir": "reports",
+  "rules_dir": "rules",
+  "cache_path": "data/hash_cache.json",
+  "exclude_dirs": [
+    ".git", "node_modules", "__pycache__", "venv", ".venv",
+    "quarantine", "reports", ".pytest_cache", ".mypy_cache",
+    "build", "dist", "rules", ".egg-info", ".dist-info"
+  ],
+  "exclude_extensions": [".jpg", ".jpeg", ".png", ".gif", ".mp4", ".mp3", ".zip", ".7z"],
+  "trusted_relative_paths": [
+    "src", "tests", "reports", "quarantine", ".venv", "venv", "data", "rules",
+    "README.md", "pyproject.toml", "requirements.txt", "Rodar.md", "config.json"
+  ],
+  "trusted_code_extensions": [".py", ".pyi", ".md", ".toml", ".json", ".yaml", ".yml", ".txt", ".yar", ".yara"],
+  "suspicious_extensions": [".exe", ".dll", ".bat", ".cmd", ".ps1", ".vbs", ".js", ".jse", ".scr", ".hta", ".jar"],
+  "suspicious_strings": [
+    "powershell -enc", "frombase64string", "invoke-expression", "downloadstring(",
+    "wscript.shell", "reg add hkcu", "taskschd.msc", "schtasks /create",
+    "certutil -urlcache", "bitsadmin", "rundll32", "mshta"
+  ],
+  "dangerous_string_weights": {
+    "powershell -enc": 20, "frombase64string": 15, "invoke-expression": 15,
+    "downloadstring(": 15, "wscript.shell": 15, "reg add hkcu": 12,
+    "taskschd.msc": 10, "schtasks /create": 15, "certutil -urlcache": 20,
+    "bitsadmin": 20, "rundll32": 12, "mshta": 15
+  },
+  "yara_tag_weights": {},
+  "quarantine_on_high_confidence": true,
+  "watch_interval_seconds": 15,
+  "suspicious_threshold": 35,
+  "high_confidence_threshold": 70,
+  "min_indicators_for_suspicious": 2,
+  "min_string_matches_for_text_suspicion": 2
+}

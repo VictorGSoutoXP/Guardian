@@ -1,0 +1,5 @@
+# Core is standard library only.
+# Install the optional deps below to unlock YARA and real-time file events.
+
+yara-python>=4.3.0
+watchdog>=4.0.0

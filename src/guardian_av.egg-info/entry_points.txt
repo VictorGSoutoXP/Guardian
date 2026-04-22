@@ -1,0 +1,3 @@
+[console_scripts]
+guardian-av = guardian_av.cli:main
+guardian-av-ui = guardian_av.gui:main
