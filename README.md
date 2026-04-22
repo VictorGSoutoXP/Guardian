@@ -47,7 +47,7 @@ python -m guardian_av.cli scan --path . --profile full
 Watch a folder continuously:
 
 ```bat
-python -m guardian_av.cli watch --path "C:\Users\Nágela\Downloads"
+python -m guardian_av.cli watch --path "C:\Users\Downloads"
 ```
 
 ## Notes
