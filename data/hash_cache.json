@@ -1,0 +1,157 @@
+{
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\tests\\test_cache.py": {
+    "size_bytes": 570,
+    "mtime_ns": 1776886473952449800,
+    "sha256": "9479852461232c0d9ddfb28af1952a31a64051b333c70a0027f2d68a0b4465a8"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\tests\\test_heuristics.py": {
+    "size_bytes": 1143,
+    "mtime_ns": 1776886473941450400,
+    "sha256": "27cb007688def477fc55394d29f3617b4af984f263d122be57351520b2ff8524"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\tests\\test_info.py": {
+    "size_bytes": 743,
+    "mtime_ns": 1776886473957449000,
+    "sha256": "6e8c53b14b597be77fc38a63e1605436425f87df07141e8b607786ed252b52b1"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\tests\\test_scanner_profiles.py": {
+    "size_bytes": 719,
+    "mtime_ns": 1776886473946448900,
+    "sha256": "752d8efd1ca869efc3bec724c70aa1bcb531002724e9fade1f3dde433cb0399d"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\tests\\test_self_scan_regression.py": {
+    "size_bytes": 1269,
+    "mtime_ns": 1776886473964452700,
+    "sha256": "a8f5a7f8d2d6e5127295e199f0144b984ffbc4c34b10fb05cbb67041e19d41cc"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\cache.py": {
+    "size_bytes": 2289,
+    "mtime_ns": 1776886474041557900,
+    "sha256": "a6d485680b351d9379712a2adf02a223fabd4c8afc68858b7da7968f13437fed"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\cli.py": {
+    "size_bytes": 3898,
+    "mtime_ns": 1776886474028964400,
+    "sha256": "fb083722ceadce283d5ca0bb40eebc3f9d63655ab0b04816f96b028544e24fef"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\config.py": {
+    "size_bytes": 2315,
+    "mtime_ns": 1776886473986966100,
+    "sha256": "d99bb544a50b44f053f1237d00b3f00a2799964604d1fb66c9996d731a6ac450"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\gui.py": {
+    "size_bytes": 26327,
+    "mtime_ns": 1776886474036551100,
+    "sha256": "6c9db2e157bd56102723e909ab51024f8a42752f8de7cd19fe53f53a6cae0f3a"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\heuristics.py": {
+    "size_bytes": 3000,
+    "mtime_ns": 1776886474005964300,
+    "sha256": "61ccbe3cff483751e55b9b85d855bd2160c4d9bdf0c50513bc9e174571bb2161"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\quarantine.py": {
+    "size_bytes": 717,
+    "mtime_ns": 1776886474011963500,
+    "sha256": "d0704d1f2d881b7d253e09534d659592b2f81e5f800720fb65bc8628c1f66edb"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\reporting.py": {
+    "size_bytes": 567,
+    "mtime_ns": 1776886474017964000,
+    "sha256": "3c5788522ce0af632a960b6c9ef408108af4178f81dd0302854fc2957aea571f"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\scanner.py": {
+    "size_bytes": 9395,
+    "mtime_ns": 1776886474022970500,
+    "sha256": "f91b2635642e326c1fb1251d6d9e1ab64a60e2227582af230a98cb657edb199a"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\signatures.py": {
+    "size_bytes": 671,
+    "mtime_ns": 1776886473995002600,
+    "sha256": "89dd649ecc0c43d24bc55aa02f3f0e71cd35aab86db4c54bc7afffd3ce55d1e6"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\utils.py": {
+    "size_bytes": 1023,
+    "mtime_ns": 1776886473999966500,
+    "sha256": "6eb949781de7daaf8e930e3c9609586815f69efd152b3d11fd18def0f57b84b9"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\watcher.py": {
+    "size_bytes": 3739,
+    "mtime_ns": 1776886474052557300,
+    "sha256": "e320d39ccb9a07c55d9b7365cdf0e3ba36951269645094b611b9d08371497e58"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\yara_engine.py": {
+    "size_bytes": 3701,
+    "mtime_ns": 1776886474047557300,
+    "sha256": "9dd1de1df88079702dc7a3f444c88fa0e6e1df81d550b1ba46642eec645ac276"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\__init__.py": {
+    "size_bytes": 62,
+    "mtime_ns": 1776886473979957800,
+    "sha256": "bf61faae6312fec5f5c7f8c93a39f0776b83332294b3e65fbc85ef8cda4cb550"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\.gitattributes": {
+    "size_bytes": 66,
+    "mtime_ns": 1776887096721434300,
+    "sha256": "1a1dbe176bc233b499d35a57db7513f2941c99ab9759f177830c9149be99005b"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\config.json": {
+    "size_bytes": 1697,
+    "mtime_ns": 1776886473915464000,
+    "sha256": "1d7eb4904aa8d49114240dc4514b994215c597908a7e19c1915ac24104352e39"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\pyproject.toml": {
+    "size_bytes": 445,
+    "mtime_ns": 1776886473918464400,
+    "sha256": "97ab5e574959634ed8953b1dfdee32a314a65ab36630c6254399ed459c18b971"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\README.md": {
+    "size_bytes": 1247,
+    "mtime_ns": 1776886473909447500,
+    "sha256": "7763cf886e02fa4b521ca04c31c0311ca9e116af79ff9e61999e017e946c9e66"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\requirements.txt": {
+    "size_bytes": 145,
+    "mtime_ns": 1776886473926449200,
+    "sha256": "6bf4ea7d5a07e018c6bf765c4d01a6f297beb549b3c6266eb90fdc825395c4eb"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\Rodar.md": {
+    "size_bytes": 317,
+    "mtime_ns": 1776887215367013700,
+    "sha256": "75a3053a7a815dd7543f6be7ad0e6145a79fcf989e9d15234d63a3ffe59ae87f"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\data\\hash_cache.json": {
+    "size_bytes": 4255,
+    "mtime_ns": 1776888334132885000,
+    "sha256": "394cff1bdcfce5f2fa8fb3521cb4561ec90c2e52ef3be88884b05a7023f951cc"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\data\\signature_db.json": {
+    "size_bytes": 134,
+    "mtime_ns": 1776886473932449700,
+    "sha256": "6981d8be9a7fe8c29d2da3f03fd40702d6c60d4d0879a1c337d705c9ff4bdd8f"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av.egg-info\\dependency_links.txt": {
+    "size_bytes": 1,
+    "mtime_ns": 1776888278711463200,
+    "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av.egg-info\\entry_points.txt": {
+    "size_bytes": 91,
+    "mtime_ns": 1776888278712413400,
+    "sha256": "acdaba3f21135c29a937cc60efa1d8af4e5a29eec200aa55e204beb619f83388"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av.egg-info\\PKG-INFO": {
+    "size_bytes": 1487,
+    "mtime_ns": 1776888278710475800,
+    "sha256": "43d0b36ae957905ad277e356313ee97129e8b5588b49cbbd4c93e5e0a82c0b2c"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av.egg-info\\SOURCES.txt": {
+    "size_bytes": 706,
+    "mtime_ns": 1776888278736213100,
+    "sha256": "3e5f7de91e59f175b5aa1dd30aa1af85a3dd7cdd512a0b8348285bb882a08ce2"
+  },
+  "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av.egg-info\\top_level.txt": {
+    "size_bytes": 12,
+    "mtime_ns": 1776888278713922500,
+    "sha256": "2f7ad245b8b23fb86396859ab8bcc3b96300a6623ddbc3893bac016a0843c536"
+  }
+}

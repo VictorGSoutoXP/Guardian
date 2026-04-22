@@ -1,0 +1,321 @@
+{
+  "started_at_utc": "2026-04-22T20:05:34.000192+00:00",
+  "finished_at_utc": "2026-04-22T20:05:34.132885+00:00",
+  "root_path": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian",
+  "stats": {
+    "scanned": 18,
+    "clean": 18,
+    "suspicious": 0,
+    "suspicious-high": 0,
+    "malicious": 0,
+    "error": 0
+  },
+  "results": [
+    {
+      "path": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\tests\\test_cache.py",
+      "sha256": "9479852461232c0d9ddfb28af1952a31a64051b333c70a0027f2d68a0b4465a8",
+      "size_bytes": 570,
+      "matched_signature": false,
+      "heuristic_score": 0,
+      "verdict": "clean",
+      "reasons": [],
+      "informational": [
+        "yara error: (2, 'No such file or directory')"
+      ],
+      "yara_score": 0,
+      "yara_matches": [],
+      "cache_hit": false,
+      "quarantined_to": null
+    },
+    {
+      "path": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\tests\\test_heuristics.py",
+      "sha256": "27cb007688def477fc55394d29f3617b4af984f263d122be57351520b2ff8524",
+      "size_bytes": 1143,
+      "matched_signature": false,
+      "heuristic_score": 0,
+      "verdict": "clean",
+      "reasons": [],
+      "informational": [
+        "trusted project path downgrade applied",
+        "yara error: (2, 'No such file or directory')"
+      ],
+      "yara_score": 0,
+      "yara_matches": [],
+      "cache_hit": false,
+      "quarantined_to": null
+    },
+    {
+      "path": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\tests\\test_info.py",
+      "sha256": "6e8c53b14b597be77fc38a63e1605436425f87df07141e8b607786ed252b52b1",
+      "size_bytes": 743,
+      "matched_signature": false,
+      "heuristic_score": 0,
+      "verdict": "clean",
+      "reasons": [],
+      "informational": [
+        "yara error: (2, 'No such file or directory')"
+      ],
+      "yara_score": 0,
+      "yara_matches": [],
+      "cache_hit": false,
+      "quarantined_to": null
+    },
+    {
+      "path": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\tests\\test_scanner_profiles.py",
+      "sha256": "752d8efd1ca869efc3bec724c70aa1bcb531002724e9fade1f3dde433cb0399d",
+      "size_bytes": 719,
+      "matched_signature": false,
+      "heuristic_score": 0,
+      "verdict": "clean",
+      "reasons": [],
+      "informational": [
+        "trusted project path downgrade applied",
+        "yara error: (2, 'No such file or directory')"
+      ],
+      "yara_score": 0,
+      "yara_matches": [],
+      "cache_hit": false,
+      "quarantined_to": null
+    },
+    {
+      "path": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\tests\\test_self_scan_regression.py",
+      "sha256": "a8f5a7f8d2d6e5127295e199f0144b984ffbc4c34b10fb05cbb67041e19d41cc",
+      "size_bytes": 1269,
+      "matched_signature": false,
+      "heuristic_score": 0,
+      "verdict": "clean",
+      "reasons": [],
+      "informational": [
+        "trusted project path downgrade applied",
+        "yara error: (2, 'No such file or directory')"
+      ],
+      "yara_score": 0,
+      "yara_matches": [],
+      "cache_hit": false,
+      "quarantined_to": null
+    },
+    {
+      "path": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\cache.py",
+      "sha256": "a6d485680b351d9379712a2adf02a223fabd4c8afc68858b7da7968f13437fed",
+      "size_bytes": 2289,
+      "matched_signature": false,
+      "heuristic_score": 0,
+      "verdict": "clean",
+      "reasons": [],
+      "informational": [
+        "yara error: (2, 'No such file or directory')"
+      ],
+      "yara_score": 0,
+      "yara_matches": [],
+      "cache_hit": false,
+      "quarantined_to": null
+    },
+    {
+      "path": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\cli.py",
+      "sha256": "fb083722ceadce283d5ca0bb40eebc3f9d63655ab0b04816f96b028544e24fef",
+      "size_bytes": 3898,
+      "matched_signature": false,
+      "heuristic_score": 0,
+      "verdict": "clean",
+      "reasons": [],
+      "informational": [
+        "yara error: (2, 'No such file or directory')"
+      ],
+      "yara_score": 0,
+      "yara_matches": [],
+      "cache_hit": false,
+      "quarantined_to": null
+    },
+    {
+      "path": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\config.py",
+      "sha256": "d99bb544a50b44f053f1237d00b3f00a2799964604d1fb66c9996d731a6ac450",
+      "size_bytes": 2315,
+      "matched_signature": false,
+      "heuristic_score": 0,
+      "verdict": "clean",
+      "reasons": [],
+      "informational": [
+        "trusted project path downgrade applied",
+        "yara error: (2, 'No such file or directory')"
+      ],
+      "yara_score": 0,
+      "yara_matches": [],
+      "cache_hit": false,
+      "quarantined_to": null
+    },
+    {
+      "path": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\gui.py",
+      "sha256": "6c9db2e157bd56102723e909ab51024f8a42752f8de7cd19fe53f53a6cae0f3a",
+      "size_bytes": 26327,
+      "matched_signature": false,
+      "heuristic_score": 0,
+      "verdict": "clean",
+      "reasons": [],
+      "informational": [
+        "yara error: (2, 'No such file or directory')"
+      ],
+      "yara_score": 0,
+      "yara_matches": [],
+      "cache_hit": false,
+      "quarantined_to": null
+    },
+    {
+      "path": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\heuristics.py",
+      "sha256": "61ccbe3cff483751e55b9b85d855bd2160c4d9bdf0c50513bc9e174571bb2161",
+      "size_bytes": 3000,
+      "matched_signature": false,
+      "heuristic_score": 0,
+      "verdict": "clean",
+      "reasons": [],
+      "informational": [
+        "yara error: (2, 'No such file or directory')"
+      ],
+      "yara_score": 0,
+      "yara_matches": [],
+      "cache_hit": false,
+      "quarantined_to": null
+    },
+    {
+      "path": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\quarantine.py",
+      "sha256": "d0704d1f2d881b7d253e09534d659592b2f81e5f800720fb65bc8628c1f66edb",
+      "size_bytes": 717,
+      "matched_signature": false,
+      "heuristic_score": 0,
+      "verdict": "clean",
+      "reasons": [],
+      "informational": [
+        "yara error: (2, 'No such file or directory')"
+      ],
+      "yara_score": 0,
+      "yara_matches": [],
+      "cache_hit": false,
+      "quarantined_to": null
+    },
+    {
+      "path": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\reporting.py",
+      "sha256": "3c5788522ce0af632a960b6c9ef408108af4178f81dd0302854fc2957aea571f",
+      "size_bytes": 567,
+      "matched_signature": false,
+      "heuristic_score": 0,
+      "verdict": "clean",
+      "reasons": [],
+      "informational": [
+        "yara error: (2, 'No such file or directory')"
+      ],
+      "yara_score": 0,
+      "yara_matches": [],
+      "cache_hit": false,
+      "quarantined_to": null
+    },
+    {
+      "path": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\scanner.py",
+      "sha256": "f91b2635642e326c1fb1251d6d9e1ab64a60e2227582af230a98cb657edb199a",
+      "size_bytes": 9395,
+      "matched_signature": false,
+      "heuristic_score": 0,
+      "verdict": "clean",
+      "reasons": [],
+      "informational": [
+        "yara error: (2, 'No such file or directory')"
+      ],
+      "yara_score": 0,
+      "yara_matches": [],
+      "cache_hit": false,
+      "quarantined_to": null
+    },
+    {
+      "path": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\signatures.py",
+      "sha256": "89dd649ecc0c43d24bc55aa02f3f0e71cd35aab86db4c54bc7afffd3ce55d1e6",
+      "size_bytes": 671,
+      "matched_signature": false,
+      "heuristic_score": 0,
+      "verdict": "clean",
+      "reasons": [],
+      "informational": [
+        "yara error: (2, 'No such file or directory')"
+      ],
+      "yara_score": 0,
+      "yara_matches": [],
+      "cache_hit": false,
+      "quarantined_to": null
+    },
+    {
+      "path": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\utils.py",
+      "sha256": "6eb949781de7daaf8e930e3c9609586815f69efd152b3d11fd18def0f57b84b9",
+      "size_bytes": 1023,
+      "matched_signature": false,
+      "heuristic_score": 0,
+      "verdict": "clean",
+      "reasons": [],
+      "informational": [
+        "yara error: (2, 'No such file or directory')"
+      ],
+      "yara_score": 0,
+      "yara_matches": [],
+      "cache_hit": false,
+      "quarantined_to": null
+    },
+    {
+      "path": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\watcher.py",
+      "sha256": "e320d39ccb9a07c55d9b7365cdf0e3ba36951269645094b611b9d08371497e58",
+      "size_bytes": 3739,
+      "matched_signature": false,
+      "heuristic_score": 0,
+      "verdict": "clean",
+      "reasons": [],
+      "informational": [
+        "yara error: (2, 'No such file or directory')"
+      ],
+      "yara_score": 0,
+      "yara_matches": [],
+      "cache_hit": false,
+      "quarantined_to": null
+    },
+    {
+      "path": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\yara_engine.py",
+      "sha256": "9dd1de1df88079702dc7a3f444c88fa0e6e1df81d550b1ba46642eec645ac276",
+      "size_bytes": 3701,
+      "matched_signature": false,
+      "heuristic_score": 0,
+      "verdict": "clean",
+      "reasons": [],
+      "informational": [
+        "yara error: (2, 'No such file or directory')"
+      ],
+      "yara_score": 0,
+      "yara_matches": [],
+      "cache_hit": false,
+      "quarantined_to": null
+    },
+    {
+      "path": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\src\\guardian_av\\__init__.py",
+      "sha256": "bf61faae6312fec5f5c7f8c93a39f0776b83332294b3e65fbc85ef8cda4cb550",
+      "size_bytes": 62,
+      "matched_signature": false,
+      "heuristic_score": 0,
+      "verdict": "clean",
+      "reasons": [],
+      "informational": [
+        "yara error: (2, 'No such file or directory')"
+      ],
+      "yara_score": 0,
+      "yara_matches": [],
+      "cache_hit": false,
+      "quarantined_to": null
+    }
+  ],
+  "interrupted": false,
+  "engine": {
+    "version": "0.5.0",
+    "root_path": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian",
+    "cache_enabled": true,
+    "cache_path": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\data\\hash_cache.json",
+    "signature_db_path": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\data\\signature_db.json",
+    "yara_available": true,
+    "rules_dir": "C:\\Users\\Nágela\\Documents\\GitHub\\Guardian\\rules",
+    "rule_files": 3,
+    "yara_error": "(2, 'No such file or directory')",
+    "watchdog_available": true,
+    "watchdog_error": null
+  }
+}
