@@ -4,8 +4,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "guardian-av"
-version = "0.5.0"
-description = "Educational antivirus-style scanner prototype"
+version = "0.5.1"
+description = "Educational antivirus-style scanner prototype with desktop UI, heuristics, YARA, and watchdog support"
 readme = "README.md"
 requires-python = ">=3.10"
 
